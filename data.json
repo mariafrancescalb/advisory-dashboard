@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "title": "Advisory Board Dashboard",
+    "subtitle": "Vesalius CV Trial 2025",
+    "topic": "PCSK9 in prevenzione cardiovascolare",
+    "date": "2025"
+  },
+  "evidenze": [
+    {
+      "titolo": "PCSK9 in prevenzione secondaria",
+      "descrizione": "Evolocumab riduce MACE 3 punti del 25% in aterosclerosi precoce e diabete ad alto rischio",
+      "fonte": "Vesalius CV Trial, 2025"
+    },
+    {
+      "titolo": "Riduzione LDL sostenuta",
+      "descrizione": "Evolocumab abbassa LDL da 115 a 45 mg/dL, mantenendo riduzione 55% per 4,6 anni",
+      "fonte": "Vesalius CV Trial LDL Substudy, 2025"
+    },
+    {
+      "titolo": "Beneficio di mortalità",
+      "descrizione": "Riduzione 20–21% in mortalità cardiovascolare e per tutte le cause con follow-up esteso",
+      "fonte": "Vesalius CV Trial, 2025"
+    },
+    {
+      "titolo": "MACE composito 4 punti",
+      "descrizione": "Riduzione rischio relativo 19% inclusi outcomes di revascolarizzazione su 5 anni",
+      "fonte": "Vesalius CV Trial, 2025"
+    },
+    {
+      "titolo": "Parità NNT tra popolazioni",
+      "descrizione": "NNT di 55 per MACE 3 punti simile tra aterosclerosi e diabete ad alto rischio",
+      "fonte": "Vesalius CV Trial Subgroup Analysis, 2025"
+    }
+  ],
+  "temi": [
+    { "nome": "Efficacia clinica in popolazioni a rischio inferiore", "valore": 14, "max": 15 },
+    { "nome": "Strategie di identificazione e screening", "valore": 11, "max": 15 },
+    { "nome": "Durata dello studio e benefici di mortalità", "valore": 10, "max": 15 },
+    { "nome": "Implementazione clinica e barriere pratiche", "valore": 9, "max": 15 },
+    { "nome": "Analisi costo-efficacia e NNT", "valore": 8, "max": 15 }
+  ],
+  "drivers": [
+    { "nome": "Efficacia in popolazione non precedentemente studiata", "pct": 92 },
+    { "nome": "Durata estesa cattura benefici mortalità", "pct": 88 },
+    { "nome": "Riduzione LDL profonda e sostenuta", "pct": 85 },
+    { "nome": "Allineamento con cardiometabolic syndrome AHA", "pct": 78 }
+  ],
+  "barriere": [
+    { "nome": "Mortalità nominale non raggiunge significatività", "pct": 72 },
+    { "nome": "Eterogeneità popolazione complica interpretazione", "pct": 65 },
+    { "nome": "Identificazione pazienti richiede risorse diagnostiche", "pct": 58 },
+    { "nome": "Trattamento basale limita generalizzabilità", "pct": 51 }
+  ],
+  "takeaway": [
+    {
+      "titolo": "Gap evidenziale in popolazioni a rischio inferiore",
+      "descrizione": "Vesalius è primo studio a dimostrare beneficio PCSK9 senza pregressi eventi CV maggiori"
+    },
+    {
+      "titolo": "Follow-up esteso cattura mortalità ritardata",
+      "descrizione": "4,6 anni vs 2–3 anni precedenti: curve mortalità divergono a 1,5 anni"
+    },
+    {
+      "titolo": "Concetto \"1,5 rischio\" riflette pratica reale",
+      "descrizione": "Aterosclerosi/diabete ad alto rischio rappresenta sindrome cardiometabolica comune"
+    },
+    {
+      "titolo": "Implementazione richiede screening sistematico",
+      "descrizione": "TC coronarica e profili rischio necessari per tradurre benefici in pratica clinica"
+    }
+  ],
+  "distribuzione": [
+    { "tema": "Efficacia clinica", "pct": 28, "colore": "#CC0000" },
+    { "tema": "Identificazione pazienti", "pct": 22, "colore": "#0D1B40" },
+    { "tema": "Durata studio", "pct": 20, "colore": "#6B7280" },
+    { "tema": "Implementazione clinica", "pct": 18, "colore": "#991B1B" },
+    { "tema": "Costo-efficacia", "pct": 12, "colore": "#1F2937" },
+    { "tema": "Altro", "pct": null, "colore": "#374151" }
+  ],
+  "quote": [
+    {
+      "testo": "Non avevamo alcun dato prima di Vesalius in quella popolazione a rischio inferiore. Pazienti che hanno aterosclerosi senza evento precedente, o pazienti senza aterosclerosi ma con caratteristiche che li rendono ad alto rischio.",
+      "speaker": "Aaron Bahula",
+      "timestamp": "01:32–01:43"
+    },
+    {
+      "testo": "Li abbiamo chiamati rischio 1,5, non primario, non secondario. Sono da qualche parte in mezzo. Ma era intenzionale. Pensavamo fosse importante perché questa è una grande popolazione di pazienti che vediamo tutto il tempo.",
+      "speaker": "Aaron Bahula",
+      "timestamp": "08:34–08:44"
+    },
+    {
+      "testo": "La durata del follow-up nello studio era 4,6 anni. I precedenti studi PCSK9 erano nell'ordine di 2–3 anni. Penso sia davvero importante che c'è un ritardo nell'osservare il beneficio e hai semplicemente bisogno di uno studio più lungo.",
+      "speaker": "Aaron Bahula",
+      "timestamp": "06:41–06:58"
+    }
+  ]
+}
